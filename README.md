@@ -37,7 +37,7 @@ Desenvolvido para pesquisar repositórios do github e listar suas issues.
 Voce pode fazer o clone do repositorio com o comando
 
 ```
-Give the example
+https://github.com/sleduardo20/githubexplorer.git
 ```
 
 Depois faça a instalação dos pacotes com:
