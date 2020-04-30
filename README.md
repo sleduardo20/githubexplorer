@@ -1,44 +1,59 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="./src/assets/logo.svg" alt="Project logo"></a>
+</p>
 
-## Available Scripts
 
-In the project directory, you can run:
+<div align="center">
 
-### `yarn start`
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+</div>
 
-### `yarn test`
+---
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<p align="center"> Few lines describing your project.
+    <br>
+</p>
 
-### `yarn build`
+## 📝 Índice
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [Sobre](#about)
+- [Instalação](#Instalacao)
+- [Techs Utilizadas](#built_using)
+- [Agradecimentos](#acknowledgement)
+---
+## 🧐 Sobre <a name = "about"></a>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Desenvolvido para pesquisar repositórios do github e listar suas issues.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img width=550px height=400px src="./src/assets/01.png">
 
-### `yarn eject`
+---
+### 💻 Instalação <a name="Instalacao"></a>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Voce pode fazer o clone do repositorio com o comando
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+Give the example
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Depois faça a instalação dos pacotes com:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+yarn
+```
+Ou se não estiver usando yanr:
+```
+npm install
+```
+---
+## ⛏️ Techs Utilizadas <a name = "built_using"></a>
 
-## Learn More
+- [React](https://reactjs.org/) - Web Framework
+---
+## 🎉 Agradecimentos <a name = "acknowledgement"></a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+  Todo o time da Rocketseat.
